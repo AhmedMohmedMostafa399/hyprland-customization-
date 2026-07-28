@@ -1,0 +1,32 @@
+/* Custom Palette matching image_7bc498.jpg */
+@define-color base #151a2a;      /* Deep twilight blue for the bar background */
+@define-color mantle #111522;
+@define-color crust #0b0e17;
+
+@define-color text #cbe0f8;      /* Soft light blue text */
+@define-color subtext1 #a5b7df;
+@define-color subtext0 #91a3cc;
+
+@define-color surface0 #232c43;  /* Pill background colors */
+@define-color surface1 #323e5c;
+@define-color surface2 #445377;
+
+@define-color overlay0 #6a7a9e;
+@define-color overlay1 #7c8db3;
+@define-color overlay2 #8e9fc7;
+
+@define-color blue #5ea1ff;      /* Bright sky blue */
+@define-color sapphire #4488d4;
+@define-color sky #82e5ff;       /* Cyan horizon glow */
+@define-color teal #55d6c2;
+
+@define-color mauve #b485ff;     /* Purple sunset clouds */
+@define-color pink #f49ce1;      /* Pink sunset clouds */
+@define-color lavender #9eafff;
+
+@define-color yellow #ffd369;    /* Warm yellow from the house windows */
+@define-color peach #ffb259;
+@define-color maroon #e67588;
+@define-color red #ff6b6b;
+@define-color green #8ae673;     /* Green from the grass */
+@define-color rosewater #f5e0dc;
